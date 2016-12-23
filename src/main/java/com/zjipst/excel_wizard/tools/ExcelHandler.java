@@ -6,5 +6,7 @@ package com.zjipst.excel_wizard.tools;
  */
 public class ExcelHandler {
 
-	
+	public static void main(String[] args){
+		System.out.println("hello,world");
+	}
 }
